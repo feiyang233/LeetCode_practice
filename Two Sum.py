@@ -1,4 +1,4 @@
-'''
+'''返回下标，两个数加起来等于指定的数
 Given an array of integers, return indices of the two numbers 
 such that they add up to a specific target.
 
